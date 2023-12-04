@@ -1,0 +1,11 @@
+{
+    "name": "Ventilspiel/Shims berechnen",
+    "start_url": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "atv.png",
+            "sizes": "256x256"
+        }
+    ]
+}
