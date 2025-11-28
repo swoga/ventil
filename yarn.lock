@@ -868,10 +868,10 @@ vue@^3.5.24:
     "@vue/server-renderer" "3.5.24"
     "@vue/shared" "3.5.24"
 
-vuetify@^3.10.11:
-  version "3.10.11"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.10.11.tgz#d2da1ffe9ffcd15e9192c31e08cc0469e57e705b"
-  integrity sha512-hfllXT0/C3O5nZyIRalaDU7ClMIrKrKAbjH0T8xbSUb7FcJrHOqPZfEkSXwrKxajv6EA1rwEOvCZoLDhunnjrQ==
+vuetify@^3.11.1:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.11.1.tgz#bff1c2a06c500eb756f6e166e2f1d5208abcbf3b"
+  integrity sha512-ACox0dnEdnOqiRtlvLsVfh4CbVI9vnpftf1g8h7waeSupIrWnqJjerfctZbFWDCroqybbt2AlIJZHF5eQcxbdg==
 
 webpack-virtual-modules@^0.6.2:
   version "0.6.2"
