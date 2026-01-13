@@ -19,10 +19,10 @@
   dependencies:
     "@babel/types" "^7.28.5"
 
-"@babel/types@^7.28.5":
-  version "7.28.5"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.5.tgz#10fc405f60897c35f07e85493c932c7b5ca0592b"
-  integrity sha512-qQ5m48eI/MFLQ5PxQj4PFaprjyCTLI37ElWMmNs0K8Lk3dVeOdNpB3ks8jc7yM5CDmVC73eMVk/trk3fgmrUpA==
+"@babel/types@^7.28.5", "@babel/types@^7.28.6":
+  version "7.28.6"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.6.tgz#c3e9377f1b155005bcc4c46020e7e394e13089df"
+  integrity sha512-0ZrskXVEHSWIqZM/sQZ4EV3jZJXRkio/WCxaqKZP1g//CEWEPSfeZFcms4XeKBCHU0ZKnIkdJeU/kF+eRp5lBg==
   dependencies:
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.28.5"
@@ -308,10 +308,10 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.8.tgz#958b91c991b1867ced318bedea0e215ee050726e"
   integrity sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==
 
-"@types/node@^25.0.3":
-  version "25.0.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.0.3.tgz#79b9ac8318f373fbfaaf6e2784893efa9701f269"
-  integrity sha512-W609buLVRVmeW693xKfzHeIV6nJGGz98uCPfeXI1ELMLXVeKYZ9m15fAMSaUPBHYLGFsVRcMmSCksQOrZV9BYA==
+"@types/node@^25.0.7":
+  version "25.0.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.0.7.tgz#afd2f0d34358631a287c6726dabe0c845abc2bae"
+  integrity sha512-C/er7DlIZgRJO7WtTdYovjIFzGsz0I95UlMyR9anTb4aCpBSRWe5Jc1/RvLKUfzmOxHPGjSE5+63HgLtndxU4w==
   dependencies:
     undici-types "~7.16.0"
 
@@ -870,10 +870,10 @@ vite-plugin-vuetify@^2.1.2:
     debug "^4.3.3"
     upath "^2.0.1"
 
-vite@^7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-7.3.0.tgz#066c7a835993a66e82004eac3e185d0d157fd658"
-  integrity sha512-dZwN5L1VlUBewiP6H9s2+B3e3Jg96D0vzN+Ry73sOefebhYr9f94wwkMNN/9ouoU8pV1BqA1d1zGk8928cx0rg==
+vite@^7.3.1:
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-7.3.1.tgz#7f6cfe8fb9074138605e822a75d9d30b814d6507"
+  integrity sha512-w+N7Hifpc3gRjZ63vYBXA56dvvRlNWRczTdmCBBa+CotUzAPf5b7YMdMR/8CQoeYE5LX3W4wj6RYTgonm1b9DA==
   dependencies:
     esbuild "^0.27.0"
     fdir "^6.5.0"
