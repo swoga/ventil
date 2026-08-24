@@ -586,10 +586,10 @@
   dependencies:
     rfdc "^1.4.1"
 
-"@vue/language-core@3.3.10":
-  version "3.3.10"
-  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.3.10.tgz#8542b6906fd7235d5555869881c7a5384566f077"
-  integrity sha512-CR7ByBbgPHqhxrioKPOcZBqttaozzLNwtkCzXQ+uF8gLPHnUe03srPnGpdtHD3zp+bq5iyVkZ1WNx7W564RPwg==
+"@vue/language-core@3.3.11":
+  version "3.3.11"
+  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.3.11.tgz#e5b6b5ad1fa1a37e032cf7668458cda7a5566b37"
+  integrity sha512-QJmpliwAVpC/OxubIByPAhNzsQPRc8/gxlN2qnVzVfIMjMDz/9RnXRFoetjz5yEgXVXyp4LqhXq3V53PjmNzFw==
   dependencies:
     "@volar/language-core" "2.4.28"
     "@vue/compiler-dom" "^3.5.0"
@@ -1157,13 +1157,13 @@ vscode-uri@^3.0.8:
   resolved "https://registry.yarnpkg.com/vscode-uri/-/vscode-uri-3.1.0.tgz#dd09ec5a66a38b5c3fffc774015713496d14e09c"
   integrity sha512-/BpdSx+yCQGnCvecbyXdxHDkuk55/G3xwnC0GqY4gmQ3j+A+g8kzzgB4Nk/SINjqn6+waqw3EgbVF2QKExkRxQ==
 
-vue-tsc@^3.3.10:
-  version "3.3.10"
-  resolved "https://registry.yarnpkg.com/vue-tsc/-/vue-tsc-3.3.10.tgz#ca13bc4baee4aea6cd355be3c1e1ea4f0f5db23b"
-  integrity sha512-YaDVxcW+CGtaOt3pZahMG5jYPx0hsUTxyEoPOTSMebcGUXP9lIBabQ14vfKMORb2CqqK5CxsNo/d1d+4IQwiKg==
+vue-tsc@^3.3.11:
+  version "3.3.11"
+  resolved "https://registry.yarnpkg.com/vue-tsc/-/vue-tsc-3.3.11.tgz#26e7df7b6c1d66793d68caaa4ab96caa28002d9c"
+  integrity sha512-gOb0B9rtU2+f1dszwPqSH5kAieIF9ReeLhD3kSRNHv5WZZUQz/JdVXW0RTdqhNTMlQkqKzrTTviqKr/4FYZraQ==
   dependencies:
     "@volar/typescript" "2.4.28"
-    "@vue/language-core" "3.3.10"
+    "@vue/language-core" "3.3.11"
 
 vue@^3.5.41:
   version "3.5.41"
@@ -1176,10 +1176,10 @@ vue@^3.5.41:
     "@vue/server-renderer" "3.5.41"
     "@vue/shared" "3.5.41"
 
-vuetify@^4.1.10:
-  version "4.1.10"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-4.1.10.tgz#bf2ba0725dbd27065914066bd8c499e3c4625688"
-  integrity sha512-7IDuicacXiE0yIZoFbYpIYLrQbOV45duwhsc/yqv2l2slatm4NHtuiB89/EpuxGEF8WHRVyLOEpOzP91RsxuxA==
+vuetify@^4.1.11:
+  version "4.1.11"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-4.1.11.tgz#437f8323b1554627dd3a996aee4a379b19eeb42e"
+  integrity sha512-pMzGsjha58Lbg9n/icMXCxcQN9rTczcOdMq3wMU1Qe+cfufl28eX4VUUzLwSsDgmLjTtUGsgZIkyYZFQy+SmIw==
 
 webpack-virtual-modules@^0.6.2:
   version "0.6.2"
